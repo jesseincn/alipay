@@ -1,5 +1,5 @@
 # Alipay
-支付宝 OAuth2 账号连接 for Laravel 5.x.
+支付宝生活号 OAuth2 账号连接 for Laravel 5.x.
 
 ## Installation
 
